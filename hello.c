@@ -6,9 +6,14 @@
 
 int main()
 {
-    int testinteger;
+    int input;
     printf("Enter a integer:");
-    scanf("%d", &testinteger);
-    printf("Number=%d", testinteger);
+    scanf("%d", &input);
+    printf("Number=%d", input);
     return 0;
 }
+
+/* Enter a integer:5
+Number=5
+Process finished with exit code 0
+ * */

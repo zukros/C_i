@@ -13,7 +13,12 @@ int main()
     return 0;
 }
 
-/* Enter a integer:5
-Number=5
-Process finished with exit code 0
+/*
+ *
+-------Output-------
+
+ Enter a integer:5
+ Number=5
+ Process finished with exit code 0
+ --------------------
  * */
